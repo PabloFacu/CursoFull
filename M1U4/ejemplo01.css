@@ -1,0 +1,48 @@
+h1{
+    color: red;/*esto es el color del titulo*/
+    text-transform: uppercase;/*esto sirve para pasar a mayuscula */
+    background-color: blue; /*esto sirve para darle color al fondo*/
+    text-align: center;/*esto sirve para centrar el titulo*/
+    border: dashed black;
+
+}
+h2{
+    color: white;
+    text-transform: uppercase;
+    font-style: italic;/*estilo de la letra*/
+    background-color: black;
+    border-bottom: dashed blue;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;/*tipo de letra*/
+    font-style: italic;
+    font-size: 18px;/*tamaño del texto*/
+    line-height: 25px;/*distancia entre lineas*/
+}
+.destacados{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: cornflowerblue;
+    font-weight: bold;
+    border-bottom: 2px solid blue;
+}
+.destacados2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: darkolivegreen;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+#cajacuadro{
+    background-color: black;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    height: 200px;
+    width: 200px;
+    border-top: dashed rgb(231, 186, 6);
+    padding: 10px;
+    margin-left: 500px;
+}
