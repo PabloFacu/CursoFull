@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+.caja1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    text-align:center;
+    line-height: 200px;
+    margin-left: 1150px;
+}
+.caja2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    text-align: center;
+    line-height: 200px;
+    margin-left: 550px;
+    margin-top: -200px;
+}
+.caja3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    text-align: center;
+    line-height: 200px;
+    margin-top: -200px;
+    
+}
