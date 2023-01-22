@@ -1,0 +1,19 @@
+/*font-family: 'Bebas Neue', cursive;
+font-family: 'Solitreo', cursive;
+*/
+.texto{
+    background-color: blue;
+    }
+h2 .destacados{
+    font-family: 'Solitreo', cursive;
+}
+
+h1{
+    font-family: 'Solitreo', cursive;
+}
+h2 .destacados2{
+    font-family: 'Bebas Neue', cursive;
+}
+.prueba{
+    background-color: bisque;
+}
